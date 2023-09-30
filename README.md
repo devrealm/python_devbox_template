@@ -36,6 +36,9 @@ devbox install
 code .
 ```
 
+Next, open a new terminal `CMD + SHIT + P` -> `Terminal: Create New Terminal` and wait for the vistual envirnoment setup to finish.
+
+
 **For any other time you want to open your project**, you simple open it at Visual Studio Code, for example:
 
 ```bash
