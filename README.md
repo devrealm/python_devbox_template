@@ -12,6 +12,9 @@ For example to create new project with name `myNewProject` at Desktop, run the f
 
 ```bash
 cd ~/Desktop/
+```
+
+```bash
 git clone https://github.com/devrealm/python_devbox_template.git myNewProject
 ```
 
@@ -23,7 +26,13 @@ To use your new project with visual studio code **for the FIRST TIME**, you need
 
 ```bash
 cd ~/Desktop/myNewProject
+```
+
+```bash
 devbox install
+```
+
+```bash
 code .
 ```
 
@@ -31,6 +40,9 @@ code .
 
 ```bash
 cd ~/Desktop/myNewProject
+```
+
+```bash
 code .
 ```
 
