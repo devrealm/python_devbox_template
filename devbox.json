@@ -1,6 +1,6 @@
 {
   "packages": [
-    "python@latest",
+    "python@3.11",
     "pipenv"
   ],
   "shell": {
